@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#303F9F</color>
+    <color name="colortabbar">#687be7</color>
+
+    <color name="notifyone">#e77f68</color>
+    <color name="notifytwo">#e7d468</color>
+    <color name="notifythree">#7de768</color>
+    <color name="notifyfour">#68c5e7</color>
+    <color name="notifyfive">#bb68e7</color>
+    <color name="notifysix">#e768a5</color>
+</resources>

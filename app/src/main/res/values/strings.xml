@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Instant News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">More</string>
+
+    <string name="appinstall_imagedescription">Screenshot</string>
+    <string name="advertisement">Advertisement</string>
+    <string name="banner_admob_unit_id">ca-app-pub-xxx/xxx</string>
+
+    <string name="testDeviceID">6BA3752AF66F8D8553248A71886E648D</string>
+    <!--<string name="test_admob_express_unit_id">ca-app-pub-6210235444865574/5253530846</string>-->
+    <!--<string name="test_admob_app_id">ca-app-pub-6210235444865574/5253530846</string>-->
+    <string name="test_admob_unit">ca-app-pub-6210235444865574/5253530846</string>
+
+    <string name="custom_click_toast" formatted="false">A custom click event has occurred for the %s asset in the %s template.</string>
+
+    <string name="collapsed_image">A single Android robot waving. Symbolises a collapsed
+        notification.
+    </string>
+    <string name="expanded_image">Two Androids on top of each other. Symbolises an expanded
+        notification.
+    </string>
+    <string name="expanded">I\'m the expanded notification.\nCollapse me!</string>
+    <string name="collapsed">I\'m the collapsed notification.\nCreated at: %s</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="custom_notification">I\'m a custom notification.</string>
+</resources>

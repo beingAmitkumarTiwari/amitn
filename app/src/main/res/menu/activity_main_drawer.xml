@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bbc_news"
+            android:icon="@drawable/bbcnews"
+            android:title="BBC News" />
+
+        <item
+            android:id="@+id/nav_mtv_news"
+            android:icon="@drawable/mtvnews"
+            android:title="MTV News" />
+        <item
+            android:id="@+id/nav_times_of_india"
+            android:icon="@drawable/timesofindia"
+            android:title="Times Of India" />
+        <item
+            android:id="@+id/nav_the_hindu"
+            android:icon="@drawable/thehindu"
+            android:title="The Hindu" />
+        <item
+            android:id="@+id/nav_cnbc_news"
+            android:icon="@drawable/cnbcnews"
+            android:title="CNBC News" />
+        <item
+            android:id="@+id/nav_espn_news"
+            android:icon="@drawable/espnnews"
+            android:title="ESPN News" />
+
+        <item
+            android:id="@+id/nav_espn_cricket"
+            android:icon="@drawable/espncricinfo"
+            android:title="ESPN Cricket" />
+        <item
+            android:id="@+id/nav_cnn_news"
+            android:icon="@drawable/cnnnews"
+            android:title="CNN News" />
+        <item
+            android:id="@+id/nav_bbc_sport"
+            android:icon="@drawable/bccsport"
+            android:title="BBC Sport" />
+        <item
+            android:id="@+id/nav_sky_sport"
+            android:icon="@drawable/skysport"
+            android:title="Sky Sport" />
+
+        <item
+            android:id="@+id/nav_the_economist"
+            android:icon="@drawable/theeconomist"
+            android:title="The Economist" />
+
+        <item
+            android:id="@+id/nav_tech_resder"
+            android:icon="@drawable/techreader"
+            android:title="Tech Reader" />
+
+        <item
+            android:id="@+id/nav_t3n"
+            android:icon="@drawable/t3n"
+            android:title="t3n" />
+    </group>
+
+
+</menu>
